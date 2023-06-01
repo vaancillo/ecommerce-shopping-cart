@@ -20,4 +20,4 @@
 
 ✅ Guarda en un localStorage el carrito para que se recupere al recargar la página. (da puntos)
 
-![image](https://github.com/vaancillo/ecommerce-shopping-cart/assets/101389260/d4ce029a-fba0-4044-9c97-35d30732df51)
+![image](https://github.com/vaancillo/ecommerce-shopping-cart/assets/101389260/4d41cd9d-0e93-4b67-a6cc-f362cebb24f9)
