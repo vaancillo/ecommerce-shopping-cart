@@ -19,3 +19,5 @@
 ✅ Sincroniza los cambios del carrito con la lista de productos.
 
 ✅ Guarda en un localStorage el carrito para que se recupere al recargar la página. (da puntos)
+
+![image](https://github.com/vaancillo/ecommerce-shopping-cart/assets/101389260/d4ce029a-fba0-4044-9c97-35d30732df51)
